@@ -1,0 +1,49 @@
+.index {
+text-align: center;
+font-size: 30px;    
+} 
+.main {
+color: white;
+    text-align: center;
+    background-color: #f4623a;
+font-size: 35px;
+margin: 0%;
+}
+.ramiz{ 
+    font-size: 20px;
+}
+.demo {
+    border-radius: 25px;
+    font-size: 15px;
+    
+}
+.form {
+    font-size: 40px;
+}
+.usa{
+text-align: center;
+ font-size: 33px;
+
+}
+.thursday{ 
+    font-size: 30px;
+text-align: center;
+color: #f4623a 
+}
+.exam{
+    margin: 0%;
+line-height: 50px;
+
+} 
+
+.parent{
+     color: #f4623a;
+    font-size: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.add{
+font-size: 35px;
+/* text-align: left; */
+text-align: inherit
+}
